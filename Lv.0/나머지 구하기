@@ -1,0 +1,5 @@
+def solution(num1, num2):
+    answer = num1%num2
+    return answer
+
+# %이 나머지인거 잊지 않기!
